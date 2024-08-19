@@ -1,6 +1,6 @@
 # Recursos
 
-En este repositorio se encontrarán diversos recursos adicionales para el curso de Introducción a Señales Biomédicas de la Universdidad Peruana Cayetano Heredia.
+En este repositorio se encontrarán diversos recursos adicionales para los cursos dictados por Lewis De La Cruz.
 
 
 - [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) - Licencia utilizada
